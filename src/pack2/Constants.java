@@ -5,7 +5,7 @@ public class Constants {
 	private Constants(){
 		
 	}
-	
+	// All constants are here
 	public static final String APPLICATION_NAME = "Face Detector";
 	public static final String EXIT_WARNING = "Do you want to exit?";
 	public static final int FRAME_WIDTH = 800;
